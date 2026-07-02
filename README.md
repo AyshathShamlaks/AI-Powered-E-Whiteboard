@@ -50,10 +50,3 @@ An AI-powered virtual whiteboard built using Python, OpenCV, MediaPipe, and Tess
 - User Interface
 
 ---
-
-## 🚀 How to Run
-
-### Clone Repository
-
-```bash
-git clone https://github.com/YourUsername/AI-Powered-E-Whiteboard.gitREADME.md
